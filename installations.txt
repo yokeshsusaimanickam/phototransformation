@@ -4,3 +4,5 @@ npx install @clerk/nextjs
 npx shadcn-ui@latest add button
 npx shadcn-ui@latest add sheet
 npm install mongodb mongoose
+npm install qs
+npm install svix
