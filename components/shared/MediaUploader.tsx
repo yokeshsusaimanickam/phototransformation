@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="jsm_phototransformationapp"
+      uploadPreset="yok_phototransformationapp"
       options={{
         multiple: false,
         resourceType: "image",
