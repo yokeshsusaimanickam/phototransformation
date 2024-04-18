@@ -6,3 +6,12 @@ npx shadcn-ui@latest add sheet
 npm install mongodb mongoose
 npm install qs
 npm install svix
+npx shadcn-ui@latest add form
+npx shadcn-ui@latest add input
+npx shadcn-ui@latest add select
+npm install next-cloudinary
+npx shadcn-ui@latest add toast
+npx shadcn-ui@latest add alert-dialog
+npx shadcn-ui@latest add pagination
+npm install cloudinary
+npm install stripe @stripe/stripe-js
